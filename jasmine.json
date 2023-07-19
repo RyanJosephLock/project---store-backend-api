@@ -1,0 +1,9 @@
+{
+    "spec_files": [
+      "**/*[sS]pec.ts"
+    ],
+    "helpers": [
+      "jasmine-typescript-helper.js"
+    ],
+    "random": false
+  }

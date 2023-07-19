@@ -1,0 +1,7 @@
+.env
+database.json
+README-PERSONAL.md
+README-GUIDE.md
+node_modules
+dist
+yarn-error.log
